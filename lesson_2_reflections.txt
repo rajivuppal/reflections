@@ -3,3 +3,6 @@ A. git creates a .git subdirectory to store meta data.
 
 Q. How is the staging area different from the working directory and the repository? What value do you think it offers?
 A. a temp location before one commits
+
+Q. How can you use the staging area to make sure you have one commit per logical change?
+A. by doing git diff --staged
