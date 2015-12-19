@@ -12,3 +12,10 @@ A. Adding an experimental feature, working on parallel features.  The branches a
 
 Q. How do the diagrams help you visualize the branch structure?
 A. Gives me an idea of various branches and what is going on in terms of overall develpment
+
+Q. What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+A. We end up with a merged branch containing the changes made to both the branches.
+
+Q. What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+A. It would slow and tedious to do merges manually all the time.
