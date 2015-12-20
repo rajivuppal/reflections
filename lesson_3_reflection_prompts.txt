@@ -6,3 +6,6 @@ A. That way the user has control over when the appropriate changes need to be co
 
 Q. Describe the differences between forks, clones, and branches. When would you use one instead of another?
 A. A fork is the same as a clone of a repository but both the original and the cloned repositories are on GitHub.  A clone is a copy of a repository on your local computer.  The original repository that has been cloned can be either local or remote.  A branch is a set of one or more commits that are attached to an existing repository.
+
+Q. What is the benefit of having a copy of the last known state of the remote stored locally?
+A. I can merge the latest changes locally on my machine before pushing them on to the eremote master
