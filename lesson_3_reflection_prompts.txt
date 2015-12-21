@@ -9,3 +9,9 @@ A. A fork is the same as a clone of a repository but both the original and the c
 
 Q. What is the benefit of having a copy of the last known state of the remote stored locally?
 A. I can merge the latest changes locally on my machine before pushing them on to the eremote master
+
+Q. How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+A. It woud be very time consuming to collaborate without a version control system such as Git and GitHub.  Befcuae of its distributed nature, it makes it possibel for large dstributed teams of people to work on projects independently then merge their changes together on an on-going basis.
+
+Q. When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+A. When the changes being made by a person can take some time and have a level of complexity that they should be on a separate branch so other folks are not negatively impacted.
